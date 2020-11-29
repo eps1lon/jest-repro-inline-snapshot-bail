@@ -1,5 +1,5 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`bails on toMatchSnapshot() 1`] = `2`;
+exports[`DOES NOT bails on toMatchSnapshot() 1`] = `1`;
 
-exports[`bails on toMatchSnapshot() 2`] = `4`;
+exports[`DOES NOT bails on toMatchSnapshot() 2`] = `3`;
