@@ -1,0 +1,12 @@
+{
+  "name": "jest-repro-inline-snapshot-bail",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "jest"
+  },
+  "dependencies": {
+    "jest": "^26.6.3",
+    "prettier": "^2.2.1"
+  }
+}
